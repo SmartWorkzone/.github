@@ -2,6 +2,9 @@
 
 Smarter and safer work zones through multimodal intrusion detection. Purdue University.
 
+**Website:** [swz.engineering.purdue.edu](https://swz.engineering.purdue.edu)\
+**Dashboard:** [dashboard.swz.engineering.purdue.edu](https://dashboard.swz.engineering.purdue.edu)
+
 The Smart Work Zone System is an integrated safety and monitoring platform for work zones. It
 combines radar, camera, and LiDAR sensing, real-time risk prediction, a digital twin, and alerts
 to workers, drivers, and traffic management personnel. It supports stationary and mobile work
